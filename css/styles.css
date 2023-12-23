@@ -1,5 +1,5 @@
 body {
-    font-family: 'Rpboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -70,6 +70,7 @@ font-size: 56px;
 font-weight: 700;
 line-height: 1.07; 
 letter-spacing: 0.02em;
+text-align: center;
 }
 
 .section-main-btn {
@@ -127,6 +128,7 @@ font-weight: 700;
 line-height: 1.11; 
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 }
 
 .section-team-list {
@@ -163,6 +165,7 @@ font-weight: 700;
 line-height: 1.11; 
 letter-spacing: 0.72px;
 text-transform: capitalize;
+text-align: center;
 }
 
 .section-portfolio-list {
